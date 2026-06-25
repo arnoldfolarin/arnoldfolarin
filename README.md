@@ -1,47 +1,30 @@
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/output/github-contribution-grid-snake-dark.svg)
+# Hi 👋, I'm Arnold Folarin
 
-# Hi 👋, I'm Arnold
+### Computer & Electrical Engineering @ UCF
 
-### Computer Engineering & Electrical Engineering @ UCF
+<br />
 
-I build backend systems, AI-powered applications, and full-stack tools — from distributed services to production automation platforms.
+![snake animation](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/output/github-contribution-grid-snake-dark.svg)
 
----
+<br />
 
-### What I'm working on
+[![](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arnoldfolarin/arnoldfolarin/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-**Software Engineering Intern @ TechJump** — Building an AI-powered lead automation platform with Node.js, Firebase, OpenAI, SendGrid, and Zapier.
+<br />
 
-**Quantum Computing Research Intern @ Oak Ridge National Laboratory** — Researching quantum computing and high-performance computing applications.
+#### Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+#### Currently Building
+**Software Engineering Intern @ TechJump** – AI lead automation with Node.js, Firebase, and OpenAI  
+**Quantum Computing Research @ Oak Ridge** – HPC and quantum computing pipelines
 
-### Tech Stack
+<br />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldfolarin&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldfolarin&layout=compact&theme=dark&hide_border=true)
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-folarin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:folarin.arnold@gmail.com)
+[LinkedIn](https://linkedin.com/in/arnold-folarin) · [Email](mailto:folarin.arnold@gmail.com)
 
 </div>
